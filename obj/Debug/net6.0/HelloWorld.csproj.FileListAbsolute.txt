@@ -1,0 +1,15 @@
+/Users/geomatics/Documents/repos/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld
+/Users/geomatics/Documents/repos/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/Users/geomatics/Documents/repos/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/Users/geomatics/Documents/repos/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/Users/geomatics/Documents/repos/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/Users/geomatics/Documents/repos/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/geomatics/Documents/repos/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/geomatics/Documents/repos/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/geomatics/Documents/repos/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/Users/geomatics/Documents/repos/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/geomatics/Documents/repos/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/Users/geomatics/Documents/repos/HelloWorld/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/Users/geomatics/Documents/repos/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/Users/geomatics/Documents/repos/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/Users/geomatics/Documents/repos/HelloWorld/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
